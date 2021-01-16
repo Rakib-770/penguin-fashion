@@ -1,0 +1,22 @@
+.penguin-1{
+    font-size: 70px;
+    color: rgb(250, 234, 9);
+}
+.penguin-2{
+    font-size: 70px;
+    color: rgb(2, 2, 88);
+    
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card img{
+    height: 450px;
+}
+.card img{
+   background-color: rgb(217, 250, 250); 
+   border-radius: 20px;
+}
+.panguin-head{
+    background-color: lightgoldenrodyellow;
+}
